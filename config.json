@@ -1,0 +1,21 @@
+{
+  "metaTitle": "D3ADLI3N",
+  "metaDescription": "Unofficial fan/parody bootleg transmission. Not affiliated with or endorsed by Deadmau5 / Joel Zimmerman.",
+  "wordmark": "D3ADLI3N",
+  "tagline": "Unofficial fan/parody bootleg transmission.",
+  "heroLine": "A glitch in the signal.",
+  "heroSub": "Not affiliated with or endorsed by Deadmau5 / Joel Zimmerman.",
+  "nav": [
+    { "label": "Back to HVLI3N", "href": "https://hvli3n.com", "external": true }
+  ],
+  "sections": [
+    {
+      "kicker": "disclaimer",
+      "title": "Unofficial",
+      "body": "Playful cultural artifact. No merch. No tickets. No commercial use.",
+      "links": []
+    }
+  ],
+  "footerLeft": "D3ADLI3N",
+  "footerRight": "anomaly node"
+}
